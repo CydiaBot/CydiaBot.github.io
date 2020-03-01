@@ -1,0 +1,16 @@
+Package: com.cydiabot.hotspotshieldhack
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: YMrPro
+Filename: ./debs/com.x204.hotspotvip_4.7.0.deb
+Size: 154870
+MD5sum: 075967058208f56383f3676f08f79d05
+SHA1: 4ff318d9abb43179beb646ba43994e0560886c65
+SHA256: dea2e8250db0ce7079921cd25fcad2bd19690ccae985887227989449c2db2069
+SHA512: 816f04bf5c294f6c383d8953c63644c7103c19e72478db145e84e028230749bcaf43311ef38ac94f1c53b64439b3d750bcac299e119f340bbb80ed32ab25bbae
+Homepage: http://twitter.com/ymrpro
+Description: HotspotShield Hack.
+Name: HotspotShield Hack
+Author: YMrPro
+Depiction: http://cydiabot.github.io/packageInfo/com.cydiabot.hotspotshield
