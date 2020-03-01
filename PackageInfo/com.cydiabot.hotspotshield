@@ -1,9 +1,0 @@
-{
-	"name": "HotspotShield",
-	"desc_short": "Unlock all features",
-	"desc_long": "unlock all features for Hotspot Shield.",
-	"compatitle": "iOS 8 through 11",
-	"changelog": "<strong>0.2</strong><br>+ Support iOS 11.<br><strong>0.1</strong><br>+ Initial Release.<br>",
-	"screenshot": null,
-	"open": true,
-}
